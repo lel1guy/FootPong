@@ -1,0 +1,16 @@
+# Godot 4 specific
+.godot/
+*.tmp
+export_credentials.cfg
+
+# Import files — tracked (keep these)
+
+# Build/export
+android/build/
+*.apk
+*.aab
+
+# Mono/C# (for future)
+.mono/
+*.dll
+*.pdb
