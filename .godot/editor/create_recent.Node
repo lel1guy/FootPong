@@ -1,0 +1,14 @@
+TouchScreenButton
+AnimationPlayer
+CanvasLayer
+ColorRect
+Button
+VBoxContainer
+PanelContainer
+Label
+Panel
+Timer
+CollisionShape2D
+Area2D
+StaticBody2D
+Sprite2D

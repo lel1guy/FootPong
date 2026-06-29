@@ -1,0 +1,29 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1770220476
+export_presets.cfg::TextFile::-1::1770051799::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::403803071398931146::1769790196::1769790202::1::::<><><>0<>0<>707ea64af69dba1ffb135becee7244d5<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1770038667
+Fifica.png::CompressedTexture2D::3456789084388595230::1769981507::1769981507::1::::<><><>0<>0<>4ae93ed528e991b7d096d337d6bc8c25<>res://.godot/imported/Fifica.png-2d627d6d35c7f5b21dcd9b0235d46a5e.ctex::
+football.png::CompressedTexture2D::7453092440130846111::1770038666::1770038667::1::::<><><>0<>0<>c8fb7d931041c4456556b23d200d518e<>res://.godot/imported/football.png-99ea9ecad7e6e2c613e899a658cc5cf4.ctex::
+Footpong.png.png::CompressedTexture2D::5338735228785737447::1769981507::1769981507::1::::<><><>0<>0<>333521e0ceef8a9affafbbd1dda8561c<>res://.godot/imported/Footpong.png.png-7eaf5f7e10c180f2b35e4d4c286398e1.ctex::
+PublicPixel-rv0pA.ttf::FontFile::7673444419253287757::1769980749::1769980749::1::::<><><>0<>0<>b9052c3a9b30eaecef7ea3e9d5666203<>res://.godot/imported/PublicPixel-rv0pA.ttf-7570b8c2599833811fd1be59b756f57b.fontdata::
+Vitoria de setubal.png::CompressedTexture2D::1506157658931538568::1769981507::1769981507::1::::<><><>0<>0<>aa4f31b46d525190e37ce2b61b600ab3<>res://.godot/imported/Vitoria de setubal.png-a167a8bc5d8086b07f29af90f446daa8.ctex::
+::res://Scenes/::1770149132
+ball.tscn::PackedScene::3101799812624016117::1770038682::0::1::::<><><>0<>0<><>::uid://degllxgal20fj::::res://Assets/football.png<>uid://du27jihkohg5::::res://Script/ball.gd
+defender.tscn::PackedScene::6385583027015016866::1769981605::0::1::::<><><>0<>0<><>::uid://bpiq2tyquev0y::::res://Assets/Fifica.png
+Main.tscn::PackedScene::3032314435392256042::1770149132::0::1::::<><><>0<>0<><>::uid://cicego0clb86n::::res://Assets/Footpong.png.png<>uid://cbcv73kdt3l7x::::res://Script/Main.gd<>uid://qet1tfjqc86l::::res://Scenes/player.tscn<>uid://cw8hvcfg7q5ms::::res://Scenes/defender.tscn<>uid://bkgsgplmdrdk4::::res://Scenes/ball.tscn<>uid://dpes2x6gp8xop::::res://Script/defender.gd<>uid://dhlcrj2livg4t::::res://Assets/PublicPixel-rv0pA.ttf<>uid://bjbn4uxeicuul::::res://Scenes/pause_menu.tscn
+main_menu.tscn::PackedScene::3001567155441101491::1770148281::0::1::::<><><>0<>0<><>::uid://c668rqkqiuvrf::::res://Script/main_menu.gd<>uid://cicego0clb86n::::res://Assets/Footpong.png.png<>uid://dhlcrj2livg4t::::res://Assets/PublicPixel-rv0pA.ttf
+pause_menu.tscn::PackedScene::3021026849308697555::1770049966::0::1::::<><><>0<>0<><>::uid://dqjahyvj3ohhm::::res://Script/pause_menu.gd<>uid://datk8kvjl8pu1::::res://Shader/pause_menu_shader.gdshader<>uid://dhlcrj2livg4t::::res://Assets/PublicPixel-rv0pA.ttf
+player.tscn::PackedScene::1132480068826940189::1770036326::0::1::::<><><>0<>0<><>::uid://cccr7tvjo0qoh::::res://Script/player.gd<>uid://vpugxi1t0r1y::::res://Assets/Vitoria de setubal.png
+Playerdefender.tscn::PackedScene::4784692208206025368::1770044674::0::1::::<><><>0<>0<><>::uid://d2fwriwx6d8n8::::res://Script/playerdefender.gd<>uid://bpiq2tyquev0y::::res://Assets/Fifica.png
+PlayerVsDefender.tscn::PackedScene::1209602023366601163::1770049965::0::1::::<><><>0<>0<><>::uid://cicego0clb86n::::res://Assets/Footpong.png.png<>uid://cbcv73kdt3l7x::::res://Script/Main.gd<>uid://qet1tfjqc86l::::res://Scenes/player.tscn<>uid://caf0gf7jfvnns::::res://Scenes/Playerdefender.tscn<>uid://bkgsgplmdrdk4::::res://Scenes/ball.tscn<>uid://dhlcrj2livg4t::::res://Assets/PublicPixel-rv0pA.ttf<>uid://bjbn4uxeicuul::::res://Scenes/pause_menu.tscn
+::res://Script/::1770149041
+ball.gd::GDScript::253551075605500406::1770042067::0::1::::<>CharacterBody2D<><>0<>0<><>::
+defender.gd::GDScript::8221494595191228479::1770149041::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Main.gd::GDScript::4848492655050065651::1770035520::0::1::::<>Sprite2D<><>0<>0<><>::
+main_menu.gd::GDScript::7014726106358850491::1770047748::0::1::::<>Control<><>0<>0<><>::
+pause_menu.gd::GDScript::8300876743079884582::1770049953::0::1::::<>Control<><>0<>0<><>::
+player.gd::GDScript::4918438175265547563::1770044627::0::1::::<>CharacterBody2D<><>0<>0<><>::
+playerdefender.gd::GDScript::9066049305672817863::1770044674::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://Shader/::1770148163
+pause_menu_shader.gdshader::Shader::7199151887632292886::1770148163::0::1::::<><><>0<>0<><>::
