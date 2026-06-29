@@ -2,8 +2,8 @@
 
 A football-themed Pong clone — my first original game, built without following a tutorial.
 
-**Engine:** Godot 4.6  
-**Language:** GDScript  
+**Engine:** Godot 4.6
+**Language:** GDScript
 **Platform:** Windows, Android (export preset ready)
 
 ## 🎮 Gameplay
@@ -44,7 +44,3 @@ FootPong/
 2. Clone this repo
 3. Open `project.godot` in Godot
 4. Press F5 to play
-
----
-
-*Built by [Vitor Vareiro](https://github.com/lel1guy) — part of the journey from electrician to game developer.*
